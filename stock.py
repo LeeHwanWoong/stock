@@ -33,3 +33,6 @@ for code in codes:
         print(name+","+code+","+str(data.values[0][3]))
     except Exception as ex:
         pass
+
+
+#aef
